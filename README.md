@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="assets/logo.svg" width="180" height="180" alt="InkOS Logo">
+  <img src="assets/logo.svg" width="120" height="120" alt="InkOS Logo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/inkos-text-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/inkos-text-light.svg">
+    <img src="assets/inkos-text-light.svg" width="240" height="70" alt="InkOS">
+  </picture>
 </p>
 
-<h1 align="center">InkOS</h1>
-
-<p align="center">
-  <strong>自动化小说写作 CLI Agent</strong>
-</p>
+<h3 align="center">自动化小说写作 CLI Agent</h3>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/@actalk/inkos"><img src="https://img.shields.io/npm/v/@actalk/inkos.svg?color=cb3837&logo=npm" alt="npm version"></a>

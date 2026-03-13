@@ -44,9 +44,4 @@
   <circle cx="170" cy="285" r="3" fill="#e9c46a" opacity="0.4"/>
   <circle cx="342" cy="285" r="3" fill="#e9c46a" opacity="0.4"/>
 
-  <!-- Text -->
-  <text x="256" y="425" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="50" font-weight="700" fill="#fefae0" letter-spacing="5">InkOS</text>
-
-  <!-- Subtitle -->
-  <text x="256" y="460" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#f4a261" letter-spacing="3" opacity="0.8">NOVEL WRITING AGENT</text>
 </svg>
